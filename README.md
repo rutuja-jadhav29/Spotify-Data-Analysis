@@ -43,6 +43,11 @@ Python Libraries
 <img width="662" alt="Screenshot 2023-06-13 at 10 51 20 PM" src="https://github.com/rutuja-jadhav29/Spotify-Data-Analysis/assets/126754368/7388bbd0-739d-48bc-b4ca-9fcea558801d">
 
 
+Spotify Features : https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+
+
+Spotify Tracks : https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv
+
 
 
 
